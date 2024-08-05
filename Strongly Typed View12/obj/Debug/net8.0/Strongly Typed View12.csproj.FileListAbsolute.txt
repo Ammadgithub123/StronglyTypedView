@@ -1,0 +1,30 @@
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\bin\Debug\net8.0\appsettings.Development.json
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\bin\Debug\net8.0\appsettings.json
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\bin\Debug\net8.0\Strongly Typed View12.staticwebassets.runtime.json
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\bin\Debug\net8.0\Strongly Typed View12.exe
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\bin\Debug\net8.0\Strongly Typed View12.deps.json
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\bin\Debug\net8.0\Strongly Typed View12.runtimeconfig.json
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\bin\Debug\net8.0\Strongly Typed View12.dll
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\bin\Debug\net8.0\Strongly Typed View12.pdb
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\obj\Debug\net8.0\Strongly Typed View12.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\obj\Debug\net8.0\Strongly Typed View12.AssemblyInfoInputs.cache
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\obj\Debug\net8.0\Strongly Typed View12.AssemblyInfo.cs
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\obj\Debug\net8.0\Strongly Typed View12.csproj.CoreCompileInputs.cache
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\obj\Debug\net8.0\Strongly Typed View12.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\obj\Debug\net8.0\Strongly Typed View12.RazorAssemblyInfo.cache
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\obj\Debug\net8.0\Strongly Typed View12.RazorAssemblyInfo.cs
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\obj\Debug\net8.0\staticwebassets.build.json
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\obj\Debug\net8.0\staticwebassets.development.json
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\obj\Debug\net8.0\staticwebassets\msbuild.Strongly Typed View12.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\obj\Debug\net8.0\staticwebassets\msbuild.build.Strongly Typed View12.props
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Strongly Typed View12.props
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Strongly Typed View12.props
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\obj\Debug\net8.0\staticwebassets.pack.json
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\obj\Debug\net8.0\scopedcss\bundle\Strongly Typed View12.styles.css
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\obj\Debug\net8.0\scopedcss\projectbundle\Strongly Typed View12.bundle.scp.css
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\obj\Debug\net8.0\Strongly Typed View12.dll
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\obj\Debug\net8.0\refint\Strongly Typed View12.dll
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\obj\Debug\net8.0\Strongly Typed View12.pdb
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\obj\Debug\net8.0\Strongly Typed View12.genruntimeconfig.cache
+E:\ASP.NET CORE\Controller\Strongly Typed View\Strongly Typed View12\Strongly Typed View12\obj\Debug\net8.0\ref\Strongly Typed View12.dll

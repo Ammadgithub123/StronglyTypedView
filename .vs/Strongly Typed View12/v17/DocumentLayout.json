@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASP.NET CORE\\Controller\\Strongly Typed View\\Strongly Typed View12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6154FDEC-F7F2-491D-827D-D745ED7F66A7}|Strongly Typed View12\\Strongly Typed View12.csproj|e:\\asp.net core\\controller\\strongly typed view\\strongly typed view12\\strongly typed view12\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6154FDEC-F7F2-491D-827D-D745ED7F66A7}|Strongly Typed View12\\Strongly Typed View12.csproj|solutionrelative:strongly typed view12\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6154FDEC-F7F2-491D-827D-D745ED7F66A7}|Strongly Typed View12\\Strongly Typed View12.csproj|e:\\asp.net core\\controller\\strongly typed view\\strongly typed view12\\strongly typed view12\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6154FDEC-F7F2-491D-827D-D745ED7F66A7}|Strongly Typed View12\\Strongly Typed View12.csproj|solutionrelative:strongly typed view12\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6154FDEC-F7F2-491D-827D-D745ED7F66A7}|Strongly Typed View12\\Strongly Typed View12.csproj|e:\\asp.net core\\controller\\strongly typed view\\strongly typed view12\\strongly typed view12\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6154FDEC-F7F2-491D-827D-D745ED7F66A7}|Strongly Typed View12\\Strongly Typed View12.csproj|solutionrelative:strongly typed view12\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ASP.NET CORE\\Controller\\Strongly Typed View\\Strongly Typed View12\\Strongly Typed View12\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Strongly Typed View12\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\ASP.NET CORE\\Controller\\Strongly Typed View\\Strongly Typed View12\\Strongly Typed View12\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Strongly Typed View12\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T12:53:19.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\ASP.NET CORE\\Controller\\Strongly Typed View\\Strongly Typed View12\\Strongly Typed View12\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Strongly Typed View12\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\ASP.NET CORE\\Controller\\Strongly Typed View\\Strongly Typed View12\\Strongly Typed View12\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Strongly Typed View12\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:53:11.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\ASP.NET CORE\\Controller\\Strongly Typed View\\Strongly Typed View12\\Strongly Typed View12\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Strongly Typed View12\\Models\\Employee.cs",
+              "ToolTip": "E:\\ASP.NET CORE\\Controller\\Strongly Typed View\\Strongly Typed View12\\Strongly Typed View12\\Models\\Employee.cs",
+              "RelativeToolTip": "Strongly Typed View12\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:47:23.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
